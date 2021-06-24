@@ -1,0 +1,45 @@
+#ted {
+    color: rgb(62, 185, 62);
+    text-align: center;
+}
+
+.something {
+    color: rgb(12, 175, 122);
+}
+
+#nav ul{
+    list-style-type: none;
+    margin: 3;
+    padding: 2;
+    overflow: hidden;
+    background-color: darkGray;
+    font-family: arial;
+   
+   }
+   
+   #nav li a {
+       display: block;
+       color: white;
+       padding: 20px;
+       text-decoration: none;
+   }
+   
+   #nav li {
+       float: left;
+   }
+   
+   #nav li a:hover {
+       background-color: teal;
+   }
+
+.fez {
+    text-align: center;
+    font-size: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.kax {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: coral;
+}
